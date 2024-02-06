@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @n1codev, ou Nícolas Berbert caso queira;
+- 👋 Oi, eu sou @n1codev ou Nícolas Berbert caso queira;
 - 👀 Estou interessado em aprender mais e mais;
 - 🌱 Atualmente aprendendo JavaScript;
 <!---
